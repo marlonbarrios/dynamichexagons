@@ -27,7 +27,7 @@ const settings = {
    p5: true,
    // Turn on a render loop (it's off by default in canvas-sketch)
 
-
+   duration: 3,
 
     animate: true,
 
@@ -71,7 +71,7 @@ canvasSketch(() => {
   
   }
      
-  createPane()
+  // createPane()
   // Attach events to window to receive them
   // window.mouseClicked = () => {
   //   console.log('Mouse clicked');
