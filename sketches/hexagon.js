@@ -30,9 +30,8 @@ const settings = {
    duration: 3,
 
     animate: true,
-
     // We can specify dimensions if we want a fixed size on the first render
-    dimensions:[1024, 1024],
+    dimensions:[512, 512],
     // orientation: 'landscape',
     bleed: 1 / 8,
     // attributes: {
