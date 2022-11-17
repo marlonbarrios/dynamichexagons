@@ -1,4 +1,4 @@
- # Dynamic Poligons as Third Eye
+ # Dynamic Polygons + Third Eye
  
 Generaive design for printed apparel with QR code in the back side linking for code repository,live app and AR mask.
 A mask with the same printed design appears mapped on faces.
